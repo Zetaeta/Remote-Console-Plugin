@@ -1,0 +1,4 @@
+name: Remote-Console-Plugin
+version: 1.0
+author: Zetaeta
+main: net.zetaeta.remoteconsole.plugin.RemoteConsolePlugin
